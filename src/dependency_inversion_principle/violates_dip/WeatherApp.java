@@ -1,4 +1,4 @@
-package dependency_injection_principle.violates_dip;
+package dependency_inversion_principle.violates_dip;
 
 // Violates DIP as the weather app directly depends upon concrete class AccuWeatherApi
 // Will be harder to replace the underlying API in the future
